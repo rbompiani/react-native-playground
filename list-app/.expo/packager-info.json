@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 27716,
+  "expoServerNgrokUrl": "https://cm-cxt.anonymous.react-native-playground.exp.direct",
+  "packagerNgrokUrl": "https://packager.cm-cxt.anonymous.react-native-playground.exp.direct",
+  "ngrokPid": 24076,
+  "webpackServerPort": null
+}
